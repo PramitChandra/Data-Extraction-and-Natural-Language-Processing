@@ -1,2 +1,2 @@
 # Data-Extraction-and-Natural-Language-Processing
-Check Readme_1 and Readme_2 files.
+Check README_1 and README_2 files.
