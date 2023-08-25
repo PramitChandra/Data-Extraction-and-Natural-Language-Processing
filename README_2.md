@@ -1,5 +1,6 @@
-# Data-Extraction-and-Natural-Language-Processing
-# Natural Language Processing Repository
+# Web Scraping and Natural Language Processing
+
+# Natural Language Processing
 
 This repository contains code for analyzing text data using Natural Language Processing techniques. The provided script demonstrates various analyses on a given text, including sentiment analysis, complexity analysis, and other text metrics using the TextBlob library and NLTK.
 
