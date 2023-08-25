@@ -1,6 +1,6 @@
-# Data-Extraction-and-Natural-Language-Processing
+# Web Scraping and Natural Language Processing
 
-# Data Extraction
+# Web Scraping
 
 This repository contains code for extracting data from a specific webpage using Python's `requests` library and `BeautifulSoup` for web scraping.
 
